@@ -26,3 +26,11 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
+
+## __Experience__
+
+## __Education__ 
+- __University:__ Brest State Technical University, Faculty of Civil Engineering, Specialities "Civil Engineering"
+
+## __English__
+__A1__
